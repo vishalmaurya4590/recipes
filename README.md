@@ -1,4 +1,33 @@
 # recipes
-It is a recipes web app
+It is a recipes web app with plain HTML.
 
-I am going to create a web app where all the links of my favoruate recipes will be provided.
+User can see food recipe by clicking on recipe name.
+
+folder structure:-
+    odin-recipes
+        |
+        ------> recipes 
+        |         |
+        |         -----> chhole-bhature.html
+        |         |
+        |         -----> chilli-paneer.html
+        |         |
+        |         -----> chilli-potato.html
+        |         |
+        |         -----> gulab-jamun.html
+        |         |
+        |         -----> paneer.momos.html
+        |
+        ------> index.html
+        |
+        ------> README.md
+                   
+                   
+                  
+                   
+                  
+                   
+                   
+                   
+                   
+                
